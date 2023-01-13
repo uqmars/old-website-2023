@@ -1,3 +1,16 @@
+UQ MARS website built using the solid state template by html5up. 
+
+I've primarily edited the html documents to lay out and display the
+content from the old uqmars.com website which was hosted on wordpress.
+I haven't made any scripting changes yet (unsure when I will have the time to)
+although I would like to make the html documents more compact and javascript 
+generated to reduce complexity.
+
+Ahmad
+
+------------------------------------------------------------------------------
+
+
 Solid State by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
