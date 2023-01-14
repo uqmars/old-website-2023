@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 4000 4000"
+   version="1.1"
+   sodipodi:docname="ChosenLogo.svg"
+   width="4000"
+   height="4000"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.12188753"
+     inkscape:cx="1874.679"
+     inkscape:cy="2059.2754"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient831"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop827" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop829" />
+    </linearGradient>
+    <style
+       id="style2">.cls-1{stroke:#000;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke-miterlimit:10;}.cls-1,.cls-5{stroke-width:10px;}.cls-2,.cls-4,.cls-5{fill:#fff;}.cls-2,.cls-3,.cls-4,.cls-5{stroke:#fff;}.cls-4{stroke-width:30px;}</style>
+  </defs>
+  <title
+     id="title6">ChosenLogo</title>
+  <rect
+     style="fill:#7069a0;fill-opacity:1;stroke:none;stroke-width:15;stroke-opacity:1"
+     id="rect1479"
+     width="4060.0813"
+     height="4045.2905"
+     x="-14.790824"
+     y="-22.186237"
+     inkscape:label="Back" />
+  <path
+     id="circle10"
+     style="stroke:#ffffff;stroke-width:1.60463;stroke-opacity:1"
+     class="cls-2"
+     d="m 1770.5047,1543.4533 a 186.83649,187.68353 0 0 0 -186.8352,187.6823 186.83649,187.68353 0 0 0 186.8352,187.6853 186.83649,187.68353 0 0 0 78.1113,-17.2354 l 235.0214,376.3258 A 1259.5373,1265.2474 0 0 0 1506.4057,3341.2893 1259.5373,1265.2474 0 0 0 2765.9411,4606.538 1259.5373,1265.2474 0 0 0 4025.4795,3341.2893 1259.5373,1265.2474 0 0 0 2765.9411,2076.0437 1259.5373,1265.2474 0 0 0 2125.7419,2254.5413 l -236.5664,-378.7977 a 186.83649,187.68353 0 0 0 68.1645,-144.608 186.83649,187.68353 0 0 0 -186.8353,-187.6823 z"
+     inkscape:label="Turbo" />
+  <path
+     id="circle12"
+     class="cls-3"
+     d="m 3002.9857,2437.6909 a 237.0438,238.11845 0 0 0 -237.0446,238.1194 237.0438,238.11845 0 0 0 237.0446,238.1193 237.0438,238.11845 0 0 0 237.0447,-238.1193 237.0438,238.11845 0 0 0 -237.0447,-238.1194 z m -995.4207,616.1885 a 237.0438,238.11845 0 0 0 -237.0446,238.1162 237.0438,238.11845 0 0 0 237.0446,238.1192 237.0438,238.11845 0 0 0 237.0447,-238.1192 237.0438,238.11845 0 0 0 -237.0447,-238.1162 z"
+     inkscape:label="Eyes"
+     style="stroke-width:1.60463;fill:#7069a0;fill-opacity:1" />
+  <metadata
+     id="metadata845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ChosenLogo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
