@@ -190,11 +190,11 @@ html {
 body {
   background-color: #2e3141;
   background-image: linear-gradient(
-      to top,
-      rgba(46, 49, 65, 0.8),
-      rgba(46, 49, 65, 0.8)
+      to right,
+      rgba(29, 31, 41, 0.8),
+      rgba(94, 99, 131, 0.8)
     ),
-    url("../../images/bg.jpg");
+    url("bg.jpg");
   background-size: auto, cover;
   background-attachment: fixed, fixed;
   background-position: center, center;
@@ -3569,7 +3569,7 @@ body.is-menu-visible #menu .inner {
         rgba(46, 49, 65, 0.8),
         rgba(46, 49, 65, 0.8)
       ),
-      url("../../images/bg.jpg");
+      url("images/circuit.png");
     background-size: auto, cover;
     background-position: center, center;
     margin-bottom: -6.5em;
@@ -3673,12 +3673,9 @@ body.is-preload #banner p {
   #wrapper > header {
     padding: 9em 0 6.25em 0;
     background-color: #2e3141;
-    background-image: linear-gradient(
-        to top,
-        rgba(46, 49, 65, 0.8),
-        rgba(46, 49, 65, 0.8)
-      ),
-      url("../../images/bg.jpg");
+    background-image: url("circuit.png"),
+      linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8));
+
     background-size: auto, cover;
     background-position: center, 0% 30%;
     margin-bottom: -6.5em;
@@ -4136,7 +4133,7 @@ body.is-preload #banner p {
 }
 
 #footer .inner .copyright {
-  border-top: solid 2px rgba(255, 255, 255, 0.125);
+  border-top: solid 2px rgba(255, 255, 255, 0.938);
   list-style: none;
   margin: 4em 0 2em 0;
   padding: 2em 0 0 0;
@@ -4144,8 +4141,8 @@ body.is-preload #banner p {
 }
 
 #footer .inner .copyright li {
-  border-left: solid 2px rgba(255, 255, 255, 0.125);
-  color: rgba(255, 255, 255, 0.35);
+  border-left: solid 2px rgba(255, 255, 255, 0.719);
+  color: rgba(255, 255, 255, 0.719);
   display: inline-block;
   font-size: 0.9em;
   line-height: 1;
@@ -4172,7 +4169,7 @@ body.is-preload #banner p {
         rgba(46, 49, 65, 0.8),
         rgba(46, 49, 65, 0.8)
       ),
-      url("../../images/bg.jpg");
+      url("images/circuit.png");
     background-size: auto, cover;
     background-position: center, center;
     margin-top: -6.5em;
