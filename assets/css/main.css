@@ -4241,3 +4241,8 @@ body.is-preload #banner p {
     padding: 2em 1.5em 0.1em 1.5em;
   }
 }
+
+.blog-image {
+  width: 100%;
+  height: auto;
+}
