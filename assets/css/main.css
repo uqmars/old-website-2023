@@ -4301,9 +4301,13 @@ body.is-preload #banner p {
 }
 
 .sponsor-div {
+  height: auto;
   padding: 10px;
   display: flex;
+  flex-direction: column;
   flex-shrink: 1;
   flex-flow: wrap;
-  justify-content: center;
+  justify-content: space-between;
+  align-content: space-between;
+  gap: 10px;
 }
