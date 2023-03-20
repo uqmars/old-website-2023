@@ -4303,5 +4303,7 @@ body.is-preload #banner p {
 .sponsor-div {
   padding: 10px;
   display: flex;
+  flex-shrink: 1;
+  flex-flow: wrap;
   justify-content: center;
 }
