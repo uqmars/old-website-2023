@@ -3895,7 +3895,7 @@ body.is-preload #banner p {
 .wrapper.spotlight .image {
   border-radius: 100%;
   margin: 0 3em 2em 0;
-  width: 22em;
+  width: 35em;
   overflow: hidden;
   -ms-flex: 1;
 }
@@ -4252,12 +4252,47 @@ body.is-preload #banner p {
   font-style: italic;
 }
 
-.sponsor-image {
-  background-color: rgb(191, 173, 207);
-  background-image: linear-gradient(
-    to right,
-    rgba(124, 152, 247, 0.8),
-    rgba(225, 229, 252, 0.979)
+.sponsor-image-turbo {
+  background-image: radial-gradient(
+    circle at center,
+    rgba(184, 180, 213, 0.68),
+    rgba(112, 105, 160, 0.979)
+  );
+  padding: 10px;
+  border-radius: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sponsor-image-gold {
+  background-image: radial-gradient(
+    circle at center,
+    rgba(212, 175, 55, 0.692),
+    rgba(212, 175, 55, 0.979)
+  );
+  padding: 10px;
+  border-radius: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sponsor-image-silver {
+  background-image: radial-gradient(
+    circle at center,
+    rgba(170, 169, 173, 0.68),
+    rgb(170, 169, 173)
+  );
+  padding: 10px;
+  border-radius: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sponsor-image-bronze {
+  background-image: radial-gradient(
+    circle at center,
+    rgba(205, 127, 50, 0.68),
+    rgb(205, 128, 50)
   );
   padding: 10px;
   border-radius: 5%;
@@ -4266,7 +4301,13 @@ body.is-preload #banner p {
 }
 
 .sponsor-div {
+  height: auto;
   padding: 10px;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  flex-shrink: 1;
+  flex-flow: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+  gap: 10px;
 }
