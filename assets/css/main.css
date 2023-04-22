@@ -4305,7 +4305,7 @@ body.is-preload #banner p {
   padding: 10px;
   display: flex;
   flex-direction: column;
-  flex-shrink: 1;
+  flex-grow: 1;
   flex-flow: wrap;
   justify-content: space-between;
   align-content: space-between;
