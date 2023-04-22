@@ -4300,6 +4300,41 @@ body.is-preload #banner p {
   margin-right: auto;
 }
 
+.sponsor-page-logo-turbo {
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.sponsor-page-logo-gold {
+  filter: drop-shadow(0px 0px 0px white);
+  padding: 10px;
+  width: 75%;
+  height: 75%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.sponsor-page-logo-silver {
+  filter: drop-shadow(0px 0px 0px white);
+  padding: 10px;
+  width: 35%;
+  height: 35%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.sponsor-page-logo-bronze {
+  filter: drop-shadow(0px 0px 0px white);
+  padding: 10px;
+  width: 25%;
+  height: 25%;
+  object-fit: cover;
+  overflow: hidden;
+}
+
 .sponsor-div {
   height: auto;
   padding: 10px;
@@ -4310,4 +4345,16 @@ body.is-preload #banner p {
   justify-content: space-between;
   align-content: space-between;
   gap: 10px;
+}
+
+.sponsor-page-div {
+  height: max-content;
+  /* padding: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-flow: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+  gap: 10px; */
 }
