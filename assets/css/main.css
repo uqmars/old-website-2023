@@ -4358,3 +4358,12 @@ body.is-preload #banner p {
   align-content: space-between;
   gap: 10px; */
 }
+
+#page-wrapper {
+  background-image: url("/images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: auto;
+}
