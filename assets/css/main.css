@@ -2903,12 +2903,14 @@ table tbody tr {
   border-right: 0;
 }
 
-table tbody tr:nth-child(2n + 1) {
-  background-color: rgba(255, 255, 255, 0.025);
+/* table tbody tr:nth-child(2n + 1) { */
+table tbody tr {
+  background-color: rgba(32, 32, 33, 0.825);
 }
 
 table td {
   padding: 0.75em 0.75em;
+  text-align: center;
 }
 
 table th {
@@ -4357,6 +4359,10 @@ body.is-preload #banner p {
   justify-content: space-between;
   align-content: space-between;
   gap: 10px; */
+}
+
+.contact-table {
+  table-layout: fixed;
 }
 
 #page-wrapper {
