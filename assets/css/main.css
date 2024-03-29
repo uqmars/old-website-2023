@@ -4262,6 +4262,8 @@ body.is-preload #banner p {
   );
   padding: 10px;
   border-radius: 5%;
+  width: 50%;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
 }
@@ -4272,6 +4274,8 @@ body.is-preload #banner p {
     rgba(212, 175, 55, 0.692),
     rgba(212, 175, 55, 0.979)
   );
+  width: 45%;
+  height: auto;
   padding: 10px;
   border-radius: 5%;
   margin-left: auto;
@@ -4284,7 +4288,9 @@ body.is-preload #banner p {
     rgba(170, 169, 173, 0.68),
     rgb(170, 169, 173)
   );
-  padding: 10px;
+  width: 30%;
+  height: auto;
+  padding: 5px;
   border-radius: 5%;
   margin-left: auto;
   margin-right: auto;
